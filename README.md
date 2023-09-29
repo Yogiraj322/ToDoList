@@ -1,5 +1,4 @@
-#Hosted Link
-[https://github.com/Yogiraj322/ToDoList.git](https://todolist-7pwf.onrender.com/)
+#Hosted Link =>  https://todolist-7pwf.onrender.com/
 
 # Todo List
 
